@@ -12,7 +12,6 @@ React + Vite + TypeScript 기반 기초학습용 리액트 프로젝트
 - Node.js: v18 이상 권장
 - pnpm: v8 이상
 
----
 
 ### ✅ Frontend
 
@@ -22,27 +21,24 @@ React + Vite + TypeScript 기반 기초학습용 리액트 프로젝트
 - React Router DOM 6.30.3
 - AG Grid React 34.3.1
 
----
 
 ### ✅ Build Tool
 
 - Vite 7.3.1
 - @vitejs/plugin-react ^5.1.1
 
----
 
 ### ✅ Language
 
 - TypeScript 5.9.x
 - ESM 기반 (`"type": "module"`)
 
----
 
 ### ✅ Style
 
 - Tailwind CSS ^4.2.1
 - @tailwindcss/vite 4.1.18
----
+
 
 ### ✅ Lint & Code Quality
 
@@ -50,6 +46,8 @@ React + Vite + TypeScript 기반 기초학습용 리액트 프로젝트
 - typescript-eslint
 - eslint-plugin-react-hooks
 - eslint-plugin-react-refresh
+
+
 ---
 
 ## 📦 Installation
