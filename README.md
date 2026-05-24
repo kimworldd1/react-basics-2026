@@ -76,10 +76,10 @@ pnpm install
     - 미니플젝(미정)
 
 ---
-## 📜 Schedule
+## 📜 Schedule(26.5.24. 기준)
 - 3월 초: 공통 컴포넌트 작업(input)
-- 3~4월: release 1.5.1
-- 4월 말? 5월~: 기초개념학습
-- 6월: 실전활용학습(미정)
-    react-basic-2026 repo or privacy repo
-- 7~8월: release 1.5.2
+- 4월: release 1.5.1
+- 5월: release 1.5.2
+- 5/6월: ~기초학습, 6월 실전합습~ => 기초생략, 실전 7월로 변경(오픈/업무 변경)
+    기초는 필요 시 document참조
+- 7월: release 1.5.3
